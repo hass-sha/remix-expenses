@@ -23,7 +23,6 @@ build/
 dist/
 .cache/
 coverage/
-public/
 yarn.lock
 yarn-error.log
 
